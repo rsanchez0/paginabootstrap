@@ -1,4 +1,0 @@
-Comprimir css
-https://csscompressor.com/
-Critical CSS
-https://jonassebastianohlsson.com/criticalpathcssgenerator/
